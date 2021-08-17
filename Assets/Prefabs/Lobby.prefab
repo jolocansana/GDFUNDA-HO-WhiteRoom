@@ -5367,6 +5367,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lobby-NeonSigns
       objectReference: {fileID: 0}
+    - target: {fileID: 1614396151847449215, guid: b0ca4145c6a61b6468268ed578e1e67a, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1803566847384715141, guid: b0ca4145c6a61b6468268ed578e1e67a, type: 3}
       propertyPath: m_Mesh
       value: 
